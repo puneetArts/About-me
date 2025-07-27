@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Puneet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **LinkedIn-clone**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/puneetarts51" target="blank">Instagram : puneetarts51 </a>
-<a href="https://auth.geeksforgeeks.org/user/puneetsinqy80" target="blank"> GfG : puneetsinqy80 </a>
-<a href="https://www.linkedin.com/in/puneetsingh51" target="blank"> LinkedIn : puneetsingh51 </a>
+<a href="https://instagram.com/puneetarts51" target="blank">Instagram : puneetarts51 </a> <br/>
+<a href="https://auth.geeksforgeeks.org/user/puneetsinqy80" target="blank"> GfG : puneetsinqy80 </a> <br/>
+<a href="https://www.linkedin.com/in/puneetsingh51" target="blank"> LinkedIn : puneetsingh51 </a> <br/>
 
 </p>
 
